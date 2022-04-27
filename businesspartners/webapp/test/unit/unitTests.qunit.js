@@ -1,6 +1,6 @@
 /* global QUnit */
 QUnit.config.autostart = false;
-
+/* comment*/
 sap.ui.getCore().attachInit(function () {
 	"use strict";
 
